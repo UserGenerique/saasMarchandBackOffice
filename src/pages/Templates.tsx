@@ -4,7 +4,7 @@ import { merchantApi } from '../api';
 import type { Merchant } from '../types';
 import { Eye, Save, Search, Palette, Store, FileText, Upload, Trash2 } from 'lucide-react';
 
-const SAMPLE_LINES
+const SAMPLE_LINES = `
   <tr><td>1</td><td>Bazin Riche Allemand</td><td>5</td><td>8 000</td><td>40 000</td></tr>
   <tr><td>2</td><td>Wax Hollandais</td><td>3</td><td>5 000</td><td>15 000</td></tr>
 `;
